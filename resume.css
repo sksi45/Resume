@@ -1,0 +1,28 @@
+.mainDiv{
+  background: grey;
+  display: flex;
+  justify-content: space-between;
+}
+.leftDiv{
+  text-align: center;
+  background: lightpink;
+  height: 390px;
+  margin:0px;
+width: 27%;
+position: fixed;
+}
+.rightDiv{
+  background: cyan;
+margin-left: 30%;
+  width:75%;
+  padding: 10px;
+}
+.lchild1{
+
+}
+.img1{
+  padding: 5px;
+  height: 170px;
+  width: 90%;
+  border-radius: 10px;
+}
